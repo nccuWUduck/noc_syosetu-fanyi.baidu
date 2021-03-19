@@ -1,5 +1,5 @@
 # noc_syosetu-fanyi.baidu
-<meta charset="utf-8" />
+
 #noc_syosetu是啥
 	+日文 成人版的成為小說家吧（日語：小説家になろう／しょうせつかになろう)
 	
